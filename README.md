@@ -1,5 +1,7 @@
 # Economic Algorithms - Tasks
 
+##### Lecturer: Dr. Erel Segal
+
 ###### Ariel University, Israel || Semester A, 2022-2023
 
 ---------------------------------------------------------------------------------------
