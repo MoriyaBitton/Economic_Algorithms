@@ -6,7 +6,7 @@
 
 ---------------------------------------------------------------------------------------
 
-### Links
+## _Links_
 
 * [Official GitHub Link](https://github.com/erelsgl-at-ariel/algorithms-5783)
 
